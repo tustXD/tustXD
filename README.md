@@ -7,10 +7,10 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://www.instagram.com/ntalann/" />
 </a>
 <a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://ugc.kn3.net/i/760x/http://2.bp.blogspot.com/-BHYd9jOHfn4/Tr8ipbLBj6I/AAAAAAAABt0/wjsTjDW6X3s/s1600/trollface+explorer.png" />
 </a>
 
 <br />
