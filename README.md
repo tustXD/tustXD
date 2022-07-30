@@ -18,8 +18,8 @@
 
 
 
-<a href="https://cdn3.emoji.gg/emojis/8885-discord.png">
-  <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/2518-discord-animated-logo.gif" />
+<a href="https://discord.gg/zAns6rzzkV">
+  <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/8885-discord.png" />
 </a>
 
 <br />
@@ -57,4 +57,3 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
