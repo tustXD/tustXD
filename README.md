@@ -6,10 +6,10 @@
 <a href="https://www.kaggle.com/mehdimabrouki">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://www.instagram.com/ntalann/" />
+<a href="https://www.instagram.com/ntalann/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/6645-instagram.png" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
+<a href="[https://www.facebook.com/mehdi.mabrouki1](https://www.instagram.com/ntalann/)">
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://ugc.kn3.net/i/760x/http://2.bp.blogspot.com/-BHYd9jOHfn4/Tr8ipbLBj6I/AAAAAAAABt0/wjsTjDW6X3s/s1600/trollface+explorer.png" />
 </a>
 
