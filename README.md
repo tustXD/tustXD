@@ -13,13 +13,13 @@
 
 
 <a href="https://www.instagram.com/ntalann/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/6645-instagram.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/6645-instagram.png" />
 </a>
 
 
 
-<a href="https://cdn3.emoji.gg/emojis/2518-discord-animated-logo.gif">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn3.emoji.gg/emojis/2518-discord-animated-logo.gif" />
+<a href="https://cdn3.emoji.gg/emojis/8885-discord.png">
+  <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/2518-discord-animated-logo.gif" />
 </a>
 
 <br />
