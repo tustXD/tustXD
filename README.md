@@ -41,5 +41,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+
+
+
+![Mehdi's github stats]([https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true](https://anime-girls-holding-programming-books.netlify.app/static/78190a62147b2d2b212aa56747e404d1/7cede/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.webp))
 
