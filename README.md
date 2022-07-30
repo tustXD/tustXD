@@ -19,7 +19,7 @@
 
 
 <a href="https://cdn3.emoji.gg/emojis/2518-discord-animated-logo.gif">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://ugc.kn3.net/i/760x/http://2.bp.blogspot.com/-BHYd9jOHfn4/Tr8ipbLBj6I/AAAAAAAABt0/wjsTjDW6X3s/s1600/trollface+explorer.png" />
+  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn3.emoji.gg/emojis/2518-discord-animated-logo.gif" />
 </a>
 
 <br />
