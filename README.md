@@ -43,6 +43,6 @@
 
 
 
+  <img align="right" alt="webp" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://anime-girls-holding-programming-books.netlify.app/static/78190a62147b2d2b212aa56747e404d1/7cede/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.webp)" />
 
-![Mehdi's github stats]([https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true](https://anime-girls-holding-programming-books.netlify.app/static/78190a62147b2d2b212aa56747e404d1/7cede/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.webp))
 
